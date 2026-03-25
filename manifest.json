@@ -1,0 +1,19 @@
+{
+  "name": "CasinOK Casino",
+  "short_name": "CasinOK Casino",
+  "theme_color": "",
+  "background_color": "#17222C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774451659-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

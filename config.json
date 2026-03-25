@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#17222C",
+            "lang-select-color": "#222829",
+            "bg-light": "#17222C",
+            "welcome-bonus-bg": "#17222C",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#26394a",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#00CE7A",
+            "text-head": "#17222C",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#00CE7A",
+            "yellow": "#385CFE",
+            "yellow-button": "#00CE7A",
+            "button-text": "#ffffff",
+            "main-button-text": "#17222C",
+            "border-color": "#efefdc",
+            "casino-cards": "#17222C",
+            "bonus-border-head": "#17222C",
+            "bonus-border": "#ffffff",
+            "providers-back": "#17222C",
+            "faq-label": "#17222C",
+            "bg-footer": "#17222C",
+            "copyright": "#e7e7d5",
+            "starColor": "#00CE7A",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5096"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5097",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "CasinOK Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5098",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "CasinOK Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "CasinOK Casino",
+                    "title": "CasinOK Casino — Best Online Casino in Australia | AUD",
+                    "description": "Play at CasinOK Casino Australia with 3000+ pokies, live dealers & crypto. Claim Welcome Pack up to $6,000 AUD. Licensed & fast payouts. Join now!\n",
+                    "canonical": "casinok-online-au.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5099",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinok-online-au.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5100"
+                },
+                "hero": {
+                    "title": "Australia's Premier Real Money Online Casino",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5101",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5102",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted real money casino in Australia? We operate under Curacao Gaming Authority licence #OGL\/2024\/1800\/1049, offer crypto payouts in under 5 minutes, and provide 24\/7 English-speaking support. Here's why Australian players choose us:\n",
+                    "items": [
+                        "Licensed by Curacao Gaming Authority #OGL\/2024\/1800\/1049 — certified fair play",
+                        "3000+ pokies & table games from NetEnt, Pragmatic Play, Evolution Gaming",
+                        "Welcome Pack up to $6,000 AUD across first 3 deposits — wagering x35",
+                        "Crypto withdrawals processed in under 5 minutes — BTC, ETH, USDT accepted",
+                        "SSL 256-bit encryption protecting 100% of Australian player transactions",
+                        "Boss Club loyalty program with 10 VIP levels & rewards up to $100,000 AUD"
+                    ],
+                    "advantagesAfterText": "Join thousands of Australian players enjoying certified fair gaming with Safety Index 8.1\/10. Our dedicated English-speaking support team is available 24\/7 via live chat.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "CasinOK Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5103",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "CasinOK Casino App",
+                    "mobileGooglePlayImageTitle": "CasinOK Casino App",
+                    "mobileIosImageTitle": "CasinOK Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About CasinOK Casino",
+                        "description1": "We are a premier online gambling platform proudly serving Australian players with real money gaming. Licensed by Curacao Gaming Authority, we offer 3000+ games from certified providers with AUD support.\n",
+                        "items": [
+                            "Launched with 1000+ certified slots and instant AUD deposits",
+                            "Introduced live dealer studio powered by Evolution Gaming",
+                            "Boss Club VIP program launched with 10 loyalty levels",
+                            "Achieved Curacao Gaming Authority licence OGL\/2024\/1800\/1049"
+                        ],
+                        "description2": "We operate under CGA licence #OGL\/2024\/1800\/1049 with SSL 256-bit encryption on every transaction. All games are RNG-tested for certified random outcomes and fair play for every Australian player.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5104",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our pokies and live dealer portfolio for Australian players. Our responsible gaming tools and 24\/7 support make us the top choice. Join us and experience real money gaming at its finest!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for Australian Players",
+                        "description": "<h2>Complete Game Portfolio for Australian Players<\/h2>\n\n<p>At CasinOK Casino, we offer Australian players one of the most comprehensive real money gaming libraries available online. Our catalogue features over 3,000 certified titles spanning pokies, table games, and live dealer experiences, all sourced from industry-leading software providers including NetEnt, Pragmatic Play, Microgaming, Hacksaw Gaming, Push Gaming, and Evolution Gaming. Every game on our platform carries an independently verified Return to Player (RTP) certificate, ensuring transparent and fair outcomes for every Australian player. Our platform is fully optimised for both desktop and mobile devices, so you can enjoy seamless gameplay on iOS and Android without downloading any app. Whether you are a casual pokie spinner or a high-stakes blackjack strategist, our game collection delivers premium entertainment backed by rigorous certification standards.<\/p>\n\n<h3>Pokies — Australia's Favourite Casino Games<\/h3>\n<p>Pokies are the heart of our platform, and we are proud to offer Australian players over 2,500 licensed slot titles in a single library. From classic three-reel fruit machines to complex multi-payline video pokies with cascading reels, buy-feature options, and megaways mechanics, our selection covers every style and preference. Top titles include Gates of Olympus (RTP 96.5%) by Pragmatic Play, Sweet Bonanza (RTP 96.48%), Book of Dead (RTP 96.21%) by Play'n GO, and Starburst (RTP 96.09%) by NetEnt — all of which rank among the most-played pokies by Australian gamblers. We also feature a dedicated section of high-volatility pokies with maximum win potentials exceeding 10,000x your stake, including Wanted Dead or a Wild and The Dog House Megaways. Progressive jackpot pokies such as Mega Moolah and Divine Fortune regularly pay out life-changing sums in AUD, with jackpot pools tracked and displayed in real time on our lobby.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways Pokies:<\/strong> Over 300 Megaways titles including Big Bass Bonanza Megaways, Gonzo's Quest Megaways, and Buffalo King Megaways — with up to 117,649 ways to win per spin and free spins with unlimited win multipliers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Buy Feature Pokies:<\/strong> Skip straight to the bonus round on titles like Reactoonz 2, Razor Shark, and Legacy of Dead. Buy-feature availability is clearly labelled in each game tile for Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Jackpot Pokies:<\/strong> Progressive jackpot network connecting titles from Microgaming and NetEnt, with Mega Moolah's jackpot pool regularly exceeding $1,000,000 AUD. Winner history is publicly displayed.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Classic Pokies:<\/strong> A curated library of 3-reel and 5-reel classics including Fruit Shop, Twin Spin, and 40 Super Hot — ideal for Australian players who prefer straightforward gameplay with lower volatility.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>New Releases:<\/strong> We add fresh certified pokie titles every week, with a dedicated \"New Games\" lobby section so Australian players never miss the latest launches from top studios.<\/li>\n<\/ul>\n\n<h3>Live Dealer Casino — Real-Time Action for Australian Players<\/h3>\n<p>Our live casino section delivers an authentic brick-and-mortar gambling atmosphere directly to Australian players via HD video stream. Powered by Evolution Gaming — the world's leading live dealer software provider — and Pragmatic Play Live, our studio features over 150 live tables available around the clock. Australian players benefit from English-speaking dealers, real-time chat functionality, and multiple camera angles for complete immersion. All live streams run at 1080p resolution with less than 1-second latency, ensuring smooth gameplay even on mobile connections. Our live casino tables cater to all bankroll sizes, with stakes ranging from $A1 minimum bets on standard tables to $A50,000 maximum bets on VIP and dedicated rooms.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> European Roulette (RTP 97.3%), American Roulette, Lightning Roulette with multipliers up to 500x, Speed Roulette for fast rounds, and Immersive Roulette with ultra-close camera angles. Minimum bet from $A1.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seats, Lightning Blackjack with random multipliers, and VIP Blackjack tables with limits up to $A10,000. Side bets including Perfect Pairs and 21+3 available.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> Standard Baccarat (RTP 98.94%), Speed Baccarat for rapid rounds, No Commission Baccarat, and Baccarat Squeeze with theatrical card reveals. Available in standard and VIP rooms with dedicated English-speaking dealers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Game Shows:<\/strong> Crazy Time with four bonus rounds and 20,000x max win, Monopoly Live combining live wheel with 3D bonus game, Mega Ball bingo-lottery hybrid, and Dream Catcher money wheel with 7x and 40x multiplier segments.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker:<\/strong> Three Card Poker, Casino Hold'em (RTP 100.5% with side bets), Caribbean Stud Poker with a progressive jackpot exceeding $250,000 AUD, and Texas Hold'em Bonus with professional English-speaking dealers.<\/li>\n<\/ul>\n\n<h3>Table Games & RNG Casino Classics<\/h3>\n<p>Beyond live dealer entertainment, we offer Australian players a comprehensive library of digital table games powered by certified RNG (Random Number Generator) technology, audited by iTech Labs. Our table game selection includes over 200 variants of roulette, blackjack, baccarat, poker, and craps — available at any bet size and with no waiting time. RNG table games allow Australian players to practise strategies without the pressure of real-time dealer pacing. Each variant displays its certified RTP percentage directly in the game interface, and our filtering system lets you sort by game type, provider, and stake level. Whether you prefer French Roulette with the La Partage rule (reducing house edge to 1.35%) or multi-hand blackjack with side bets, our digital table section covers every preference.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #1ec773;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">RTP<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Provider<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #161b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>European Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">97.30%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">NetEnt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1f242c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Classic Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">99.50%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Microgaming<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98.94%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Pragmatic Play<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1f242c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Poker (3-Card)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.63%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Evolution<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Video Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">99.54%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">NetEnt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1f242c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>French Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98.65%<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Play'n GO<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<h3>Mobile Casino — Play Pokies on the Go in Australia<\/h3>\n<p>Our mobile platform is fully optimised for Australian players using smartphones and tablets. There is no app download required — simply open our website in your mobile browser on iOS or Android and enjoy the complete game library with full functionality. Our mobile interface adapts instantly to any screen size from 320px upwards, maintaining crisp graphics and smooth animations even on 4G connections. All 3,000+ pokies, live dealer tables, and RNG casino games are accessible on mobile, with touch-friendly controls and quick-load technology ensuring each game opens in under 3 seconds. Australian players can also make AUD deposits, request crypto withdrawals, and contact our 24\/7 live chat support — all from the mobile interface without switching to desktop.<\/p>\n\n<h3>Weekly Tournaments for Australian Players<\/h3>\n<p>We run regular real money tournaments exclusively available to our players, with prize pools reaching up to $50,000 AUD per event. Tournament schedules are updated weekly, with leaderboard competitions across our most popular pokies including Gates of Olympus, Big Bass Bonanza, and Sweet Bonanza. Australian players accumulate tournament points by generating wins on qualifying games, with prize distributions covering the top 100 positions on the leaderboard. Our dedicated Tournaments page displays active competitions, entry requirements, prize pool breakdowns, and real-time leaderboard standings. Additionally, our Boss Club VIP members gain priority tournament access with enhanced point multipliers, giving loyal Australian real money players a competitive edge in every event.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for Australian Players",
+                        "description": "<h2>Banking & Bonuses for Australian Players<\/h2>\n\n<p>At CasinOK Casino, we have designed our financial infrastructure specifically to accommodate Australian players seeking fast, secure, and flexible real money transaction options. We accept a wide range of deposit and withdrawal methods including major cryptocurrencies, credit and debit cards, and e-wallets — all processed with SSL 256-bit encryption and PCI-DSS compliant security protocols. Our minimum deposit threshold is $A20, making us accessible for both casual Australian gamblers and high-stakes players alike. Crypto deposits are credited to your account within minutes, while card payments process instantly. All withdrawals are handled with priority for verified accounts, with crypto payouts completing in under 5 minutes — one of the fastest turnaround times available to Australian online casino players in the market.<\/p>\n\n<h3>Deposit Methods Available to Australian Players<\/h3>\n<p>We offer Australian players a comprehensive selection of deposit channels covering both traditional and modern payment solutions. Cryptocurrency deposits are our most popular option among Australian real money players, offering instant crediting with zero fees and complete privacy. For players preferring conventional methods, Visa and Mastercard deposits process instantly with standard bank-level security. All deposits are accepted in AUD equivalent, with our platform automatically converting cryptocurrency values to Australian dollars at the live market rate at the time of transaction. There are no deposit fees charged by our platform — any applicable fees are determined solely by your payment provider or crypto network conditions.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bitcoin (BTC):<\/strong> Instant deposit crediting, zero platform fees, minimum $A20 equivalent. Preferred by Australian crypto casino players for speed and anonymity. Withdrawals also processed in under 5 minutes.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Ethereum (ETH):<\/strong> Smart contract-based transactions, instant deposits, sub-5-minute withdrawals. Widely used by Australian players for its low gas fees compared to Bitcoin during peak network times.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>USDT (Tether):<\/strong> Stablecoin option pegged to USD, eliminating crypto price volatility during transactions. Ideal for Australian players who want crypto speed without exchange rate risk on their gaming balance.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard:<\/strong> Instant card deposits from Australian bank accounts, accepted in AUD. Cards linked to Australian banks including CommBank, NAB, ANZ, and Westpac are fully supported for real money gambling deposits.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>E-Wallets:<\/strong> Skrill and Neteller accepted for Australian players — offering an extra layer of separation between your bank account and casino transactions. Deposits instant, withdrawals within 24 hours.<\/li>\n<\/ul>\n\n<h3>How Fast Are Withdrawals at CasinOK Casino?<\/h3>\n<p>Australian players can expect some of the fastest withdrawal processing times available at any licensed online casino. Cryptocurrency withdrawals — including BTC, ETH, and USDT — complete in under 5 minutes for verified accounts with no additional verification required for amounts under the standard KYC threshold. Card withdrawals to Visa and Mastercard typically process within 1–3 business days depending on your Australian bank's internal processing schedule. E-wallet withdrawals via Skrill and Neteller complete within 24 hours. We recommend Australian players complete full identity verification (KYC) proactively by uploading a government-issued Australian ID and proof of address — this eliminates any delays on first withdrawal requests and ensures seamless payouts for all future transactions.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #1ec773;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Fee<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #161b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">&lt;5 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">None<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1f242c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Ethereum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">&lt;5 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">None<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>USDT<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">&lt;5 min<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">None<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1f242c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Visa\/Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">1–3 days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">None<\/td>\n    <\/tr>\n    <tr style=\"background-color: #161b22;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">24 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">None<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1f242c;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">24 hrs<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">None<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Pack — Up to $6,000 AUD Across Three Deposits<\/h3>\n<p>Our Welcome Pack is one of the most generous new player offers available to Australian online casino players. Spread across your first three real money deposits, it delivers a combined maximum bonus value of $6,000 AUD with 35x wagering requirement on each bonus amount. The first deposit match of 100% up to $2,000 AUD is automatically credited within 5 minutes of qualifying, with free spins also available on selected pokies. Each welcome bonus instalment has a 30-day expiry window, giving Australian players ample time to meet the wagering conditions. The minimum qualifying deposit is $A20, and the maximum bet per spin while a bonus is active is $A5 to ensure fair play compliance in line with our Curacao Gaming Authority licence conditions.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 1:<\/strong> 100% match bonus up to $2,000 AUD — minimum deposit $A20, wagering requirement 35x bonus, valid 30 days. Credited automatically within 5 minutes of deposit confirmation.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 2:<\/strong> 100% match bonus up to $2,000 AUD — same wagering terms apply. Activates automatically on your second qualifying deposit. Ideal for Australian players who want to extend their playing session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit 3:<\/strong> 100% match bonus up to $2,000 AUD — completing the Welcome Pack for a total potential of $6,000 AUD in bonus funds. All three bonuses combined represent outstanding value for Australian real money players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>50 Free Spins:<\/strong> Available to Australian new players with no deposit required — each spin valued at $0.10 AUD with 35x wagering on winnings and a maximum cashout of $100 AUD. Activate via the Promotions page after registration.<\/li>\n<\/ul>\n\n<h3>Boss Club — 10-Level VIP Loyalty Program for Australian Players<\/h3>\n<p>Our Boss Club is a comprehensive loyalty rewards programme designed to recognise and reward Australian real money players at every level of their gaming journey. The programme features 10 distinct VIP tiers, from entry-level Bronze through to the exclusive Diamond Boss level, each unlocking progressively greater rewards, cashback percentages, withdrawal priority, and personal account manager services. Players accumulate loyalty points automatically through every real money wager placed on pokies, live dealer tables, and RNG casino games. Points convert to bonus funds redeemable without complicated conditions, and higher-tier Australian players receive weekly cashback on net losses — reaching up to 20% cashback at the Diamond Boss level. Total reward payouts through the Boss Club programme reach up to $100,000 AUD for our most loyal Australian players.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bronze to Silver (Levels 1–3):<\/strong> Entry-level tiers with weekly cashback of 5–8%, standard withdrawal processing times, and access to reload bonuses. Suitable for Australian players starting their real money journey with us.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Gold to Platinum (Levels 4–7):<\/strong> Mid-tier VIP benefits including 10–15% weekly cashback, priority withdrawal processing within 12 hours, enhanced tournament point multipliers, and dedicated support queue access for Australian players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Diamond Boss (Levels 8–10):<\/strong> Elite tier with up to 20% weekly cashback, sub-5-minute withdrawals guaranteed, personal account manager available 24\/7, exclusive high-roller tournaments, and bespoke reward packages up to $100,000 AUD.<\/li>\n<\/ul>\n\n<h3>Responsible Gambling Tools for Australian Players<\/h3>\n<p>We are committed to promoting responsible gambling for all Australian players using our platform. In compliance with our Curacao Gaming Authority licence requirements, we provide a full suite of player protection tools accessible directly from your account settings. Australian players can set daily, weekly, or monthly deposit limits to control their spending, activate cooling-off periods ranging from 24 hours to 6 months, or request permanent self-exclusion at any time. Our system incorporates real-time affordability checks and session time reminders to help Australian gamblers maintain healthy gaming habits. We partner with recognised responsible gambling organisations and our 24\/7 English-speaking support team is trained to identify and assist players showing signs of problem gambling. Gambling should always be an enjoyable and controlled activity — we take our duty of care to Australian players seriously.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is CasinOK Casino licensed and safe for Australian players?",
+                            "answer": "Yes, CasinOK Casino holds a valid Curacao Gaming Authority licence #OGL\/2024\/1800\/1049. All transactions use SSL 256-bit encryption. Games are RNG-certified by independent auditors. Our Safety Index is 8.1\/10 — making us a recommendable real money casino for Australian players.\n"
+                        },
+                        {
+                            "title": "What payment methods does CasinOK accept for Australian players?",
+                            "answer": "We accept Bitcoin, Ethereum, USDT, Visa, Mastercard, Skrill, and Neteller for Australian players. All deposits process instantly with no platform fees. Crypto is our most popular option in Australia for its speed. Minimum deposit is $A20 across all supported payment methods.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at CasinOK Casino?",
+                            "answer": "Cryptocurrency withdrawals — BTC, ETH, USDT — complete in under 5 minutes for verified Australian accounts. E-wallet payouts via Skrill or Neteller process within 24 hours. Card withdrawals to Australian Visa and Mastercard accounts typically take 1–3 business days.\n"
+                        },
+                        {
+                            "title": "How do I claim the Welcome Pack bonus at CasinOK?",
+                            "answer": "Register your account and make a minimum $A20 deposit via any supported method. Your 100% match bonus up to $2,000 AUD credits automatically within 5 minutes. The Welcome Pack covers three deposits for a total of $6,000 AUD. Wagering requirement is 35x the bonus within 30 days.\n"
+                        },
+                        {
+                            "title": "Can I play pokies on my mobile phone at CasinOK?",
+                            "answer": "Yes — our mobile casino is fully optimised for iOS and Android browsers with no app download needed. All 3,000+ pokies and live dealer tables load in under 3 seconds on mobile. Australian players can deposit, withdraw, and contact live chat support directly from their smartphone.\n"
+                        },
+                        {
+                            "title": "What is the Boss Club loyalty programme at CasinOK Casino?",
+                            "answer": "Boss Club is our 10-level VIP programme rewarding Australian real money players with cashback up to 20%, priority withdrawals, and rewards up to $100,000 AUD. Points accumulate automatically with every wager. Higher tiers unlock personal account managers and exclusive high-roller tournaments.\n"
+                        },
+                        {
+                            "title": "Does CasinOK Casino offer live dealer games for Australians?",
+                            "answer": "Yes — we offer 150+ live dealer tables powered by Evolution Gaming and Pragmatic Play Live. Games include Live Roulette, Blackjack, Baccarat, and Game Shows like Crazy Time. All tables stream in 1080p HD with English-speaking dealers available 24\/7 for Australian players.\n"
+                        },
+                        {
+                            "title": "How do I set deposit limits or self-exclude at CasinOK?",
+                            "answer": "Log in to your account, navigate to Responsible Gaming settings, and select your preferred deposit limit — daily, weekly, or monthly. Cooling-off periods from 24 hours to 6 months are available. For permanent self-exclusion, contact our 24\/7 English live chat support team directly.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
